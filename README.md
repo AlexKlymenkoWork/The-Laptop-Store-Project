@@ -1,1 +1,3 @@
-The Laptop Store Project
+## The laptop simple store with Node.js
+
+### This is the first experience with Node.js, simple laptop store.
